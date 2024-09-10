@@ -14,6 +14,11 @@ The data is split into:
 - **Training data:** Used to train the model.
 - **Test data:** Used to evaluate the model's performance.
 
+## Google Colab Link
+```
+https://colab.research.google.com/drive/1OQI0z4ITYEvFDvg5wgRlhVf1IvywUpG4?usp=sharing
+```
+
 ## Installation
 Clone this repository to your local machine:
 ```bash
