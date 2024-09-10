@@ -17,5 +17,5 @@ The data is split into:
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/abhirajjsingh/Loan-Predictor.git
+cd Loan-Predictor
